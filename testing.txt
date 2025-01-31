@@ -39,3 +39,4 @@ Azure_api_key = drycc0548l9mpasjuw8v74t96gd8moy7
 Azure_api_key = 1re9hw0syc3ulemhvgvpdt3e874txoj4
 Azure_api_key = e0e130l6p4xzfpbbjg8oqkr6spm08e9i
 Azure_api_key = shh3yb5ri8j6rs7ryw1580besmsiyspz
+Azure_api_key = xdw63m6syc7pe8esjqxsmd1uxo2kd8ig
