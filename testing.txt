@@ -116,3 +116,4 @@ Azure_api_key = fjo2gp1nasl1itwkqton22tn9imf2y0r
 Azure_api_key = pcn4o9zi677kkdikanfvymsuk6crkjzu
 Azure_api_key = rypimkaed942csfjtxo276q0lbuprasv
 Azure_api_key = ti9l483e6njdn3yml77lsth5doh608hx
+Azure_api_key = oaxs22b3itpselrewovwq4tndx0c1jqg
